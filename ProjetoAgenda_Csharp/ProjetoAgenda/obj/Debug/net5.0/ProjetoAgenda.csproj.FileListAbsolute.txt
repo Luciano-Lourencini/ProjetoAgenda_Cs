@@ -1,0 +1,32 @@
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\bin\Debug\net5.0\ProjetoAgenda.exe
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\bin\Debug\net5.0\ProjetoAgenda.deps.json
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\bin\Debug\net5.0\ProjetoAgenda.runtimeconfig.json
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\bin\Debug\net5.0\ProjetoAgenda.runtimeconfig.dev.json
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\bin\Debug\net5.0\ProjetoAgenda.dll
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\bin\Debug\net5.0\ref\ProjetoAgenda.dll
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\bin\Debug\net5.0\ProjetoAgenda.pdb
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.csprojAssemblyReference.cache
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.AssemblyInfoInputs.cache
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.AssemblyInfo.cs
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.csproj.CoreCompileInputs.cache
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.dll
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\obj\Debug\net5.0\ref\ProjetoAgenda.dll
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.pdb
+C:\Users\hadou\Documents\TI\C#\7- POO\ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.genruntimeconfig.cache
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\bin\Debug\net5.0\ProjetoAgenda.exe
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\bin\Debug\net5.0\ProjetoAgenda.deps.json
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\bin\Debug\net5.0\ProjetoAgenda.runtimeconfig.json
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\bin\Debug\net5.0\ProjetoAgenda.runtimeconfig.dev.json
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\bin\Debug\net5.0\ProjetoAgenda.dll
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\bin\Debug\net5.0\ref\ProjetoAgenda.dll
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\bin\Debug\net5.0\ProjetoAgenda.pdb
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.csprojAssemblyReference.cache
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.AssemblyInfoInputs.cache
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.AssemblyInfo.cs
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.csproj.CoreCompileInputs.cache
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.dll
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\obj\Debug\net5.0\ref\ProjetoAgenda.dll
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.pdb
+C:\Users\hadou\Documents\TI\C#\7- POO\1- Projeto Agenda\1- ProjetoAgenda\obj\Debug\net5.0\ProjetoAgenda.genruntimeconfig.cache

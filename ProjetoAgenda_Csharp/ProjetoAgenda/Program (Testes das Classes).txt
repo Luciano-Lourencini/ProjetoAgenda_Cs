@@ -1,0 +1,92 @@
+using System;
+
+namespace ProjetoAgenda
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*
+            TESTAR CLASSE HORÁRIO: 
+            
+            //Horario h1 = new Horario();   seria assim se não tivesse método construtor (Horario seria =0)
+            
+            //instanciar um Horario (criar um objeto com a classe Horario)
+            Horario h1 = new Horario(17,06); //é assim pq tem um método construtor
+            Horario h2 = new Horario();
+
+            Console.WriteLine("Horário antigo:  {0}:{1}",h1.getHoras(),h1.getMinutos());
+
+            h1.setHoras(16);
+            h1.setMinutos(44);
+
+            Console.WriteLine("Horário novo:  {0}:{1}",h1.getHoras(),h1.getMinutos());
+
+            Console.WriteLine("\nHorário padrão:  {0}:{1}",h2.getHoras(),h2.getMinutos());
+            */
+
+            /*
+            TESTAR CLASSE DATA:
+
+            Data d1 = new Data();
+            Console.WriteLine("{0}/{1}/{2}",d1.getDia(),d1.getMes(),d1.getAno());
+            d1.setDia(11);
+            d1.setMes(03);
+            d1.setAno(2001);
+            Console.WriteLine("{0}/{1}/{2}",d1.getDia(),d1.getMes(),d1.getAno());
+            */
+
+            /*
+            TESTAR CLASSE EVENTO (TUDO JUNTO) (TESTE COM VALORES PADRÃO)
+
+            string titulo;
+            Console.Write("Digite o nome do evento: ");
+            titulo = Console.ReadLine();
+            
+            Data d1 = new Data();
+            Horario h1 = new Horario();                       //se eu quisesse usar o construtor sem horário, NÃO FAZER ESSA LINHA, o evento seria (título,d1) e NÃO TERIA O GETHORA!!!
+            Evento e1 = new Evento(titulo,d1,h1);
+
+            Console.WriteLine("TÍTULO: {0}",e1.getDescricao());
+            Console.WriteLine("DATA: {0}/{1}/{2}",e1.getData().getDia(),
+                                                    e1.getData().getMes(),
+                                                    e1.getData().getAno());
+            Console.WriteLine("HORÁRIO: {0}:{1}",e1.getHora().getHoras(),
+                                                    e1.getHora().getMinutos());
+            */
+
+            //Ex de exercício
+            Console.Clear();
+
+            string titulo;
+            int dia,mes,ano;
+            int horas,minutos;
+            Console.Write("Digite o nome do evento: ");
+            titulo = Console.ReadLine();
+
+            Console.Write("\nDigite o dia do evento: ");
+            dia = int.Parse(Console.ReadLine());
+            Console.Write("Digite o mês do evento: ");
+            mes = int.Parse(Console.ReadLine());
+            Console.Write("Digite o ano do evento: ");
+            ano = int.Parse(Console.ReadLine());
+
+            Console.Write("\nDigite o Horário do evento em:\nHORAS: ");
+            horas = int.Parse(Console.ReadLine());
+            Console.Write("Minutos: ");
+            minutos = int.Parse(Console.ReadLine());
+            
+            Data d1 = new Data(dia,mes,ano);
+            Horario h1 = new Horario(horas,minutos);
+            Evento e1 = new Evento(titulo,d1,h1);
+
+            Console.Clear();
+            Console.WriteLine("TÍTULO: {0}",e1.getDescricao());
+            Console.WriteLine("DATA: {0}/{1}/{2}",e1.getData().getDia(),
+                                                    e1.getData().getMes(),
+                                                    e1.getData().getAno());
+            Console.WriteLine("HORÁRIO: {0}:{1}",e1.getHora().getHoras(),
+                                                    e1.getHora().getMinutos());
+        }
+    }
+}
